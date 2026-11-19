@@ -1,0 +1,16 @@
+hour,actor,method,messages
+2026-11-19T00:00Z,evm,InvokeContract,3960
+2026-11-19T01:00Z,account,Send,6
+2026-11-19T01:00Z,ethaccount,Send,6
+2026-11-19T01:00Z,evm,InvokeContract,3413
+2026-11-19T01:00Z,miner,SubmitWindowedPoSt,2
+2026-11-19T02:00Z,account,Send,5
+2026-11-19T02:00Z,ethaccount,Send,3
+2026-11-19T02:00Z,evm,InvokeContract,3779
+2026-11-19T02:00Z,miner,SubmitWindowedPoSt,1
+2026-11-19T03:00Z,account,Send,12
+2026-11-19T03:00Z,ethaccount,Send,12
+2026-11-19T03:00Z,evm,InvokeContract,3437
+2026-11-19T04:00Z,evm,InvokeContract,3666
+2026-11-19T04:00Z,miner,SubmitWindowedPoSt,1
+2026-11-19T05:00Z,evm,InvokeContract,1132

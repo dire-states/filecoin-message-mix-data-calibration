@@ -56,9 +56,13 @@ date,actor,method,messages
 2026-11-18,eam,CreateExternal,6
 2026-11-18,ethaccount,InvokeContract,1
 2026-11-18,ethaccount,Send,27
-2026-11-18,evm,InvokeContract,82557
+2026-11-18,evm,InvokeContract,84536
 2026-11-18,market,AddBalance,4
 2026-11-18,miner,SubmitWindowedPoSt,15
 2026-11-18,placeholder,InvokeContract,13
 2026-11-18,placeholder,Send,2
 2026-11-18,reward,Claim,1
+2026-11-19,account,Send,23
+2026-11-19,ethaccount,Send,21
+2026-11-19,evm,InvokeContract,19387
+2026-11-19,miner,SubmitWindowedPoSt,4
