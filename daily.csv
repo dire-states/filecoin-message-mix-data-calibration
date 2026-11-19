@@ -62,7 +62,8 @@ date,actor,method,messages
 2026-11-18,placeholder,InvokeContract,13
 2026-11-18,placeholder,Send,2
 2026-11-18,reward,Claim,1
-2026-11-19,account,Send,23
-2026-11-19,ethaccount,Send,21
-2026-11-19,evm,InvokeContract,19387
-2026-11-19,miner,SubmitWindowedPoSt,4
+2026-11-19,account,Send,48
+2026-11-19,ethaccount,Send,42
+2026-11-19,evm,InvokeContract,40716
+2026-11-19,miner,SubmitWindowedPoSt,5
+2026-11-19,reward,Claim,1
