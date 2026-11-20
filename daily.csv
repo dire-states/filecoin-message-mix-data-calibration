@@ -69,9 +69,12 @@ date,actor,method,messages
 2026-11-19,miner,SubmitWindowedPoSt,14
 2026-11-19,placeholder,InvokeContract,1
 2026-11-19,reward,Claim,1
-2026-11-20,account,Send,23
-2026-11-20,ethaccount,Send,16
-2026-11-20,evm,InvokeContract,19260
-2026-11-20,miner,SubmitWindowedPoSt,4
+2026-11-20,account,Send,52
+2026-11-20,eam,CreateExternal,17
+2026-11-20,ethaccount,Send,38
+2026-11-20,evm,InvokeContract,41024
+2026-11-20,miner,DeclareFaultsRecovered,1
+2026-11-20,miner,SubmitWindowedPoSt,6
 2026-11-20,placeholder,InvokeContract,1
 2026-11-20,placeholder,Send,1
+2026-11-20,reward,Claim,1
