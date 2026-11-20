@@ -68,4 +68,4 @@ hour,actor,method,messages
 2026-11-19T22:00Z,ethaccount,InvokeContract,1
 2026-11-19T22:00Z,evm,InvokeContract,3948
 2026-11-19T23:00Z,account,Send,1
-2026-11-19T23:00Z,evm,InvokeContract,1054
+2026-11-19T23:00Z,evm,InvokeContract,3228
